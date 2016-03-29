@@ -1,8 +1,10 @@
-This folder contains exemplary Matlab codes for simple MPI reconstructions.
+# MPI Reconsutrion #
+
+This repository contains exemplary Matlab codes for simple MPI reconstructions.
 
 Data are provided [here] (http://www.tuhh.de/ibi/research/mpi-data-format.html) or [here] (https://github.com/KsenijaGraefe/SingleSidedData) and have to be placed in the data folder. The file `measurement_5.h5` from the first adresse has to be renamed to `measurement.h5`.
 
-# reco.m # 
+# reco.m #
 
 Running this script, you should obtain after roughly one minutes those three graphs:
 
