@@ -1,4 +1,4 @@
-# MPI Reconsutrion #
+# MPI Reconstruction #
 
 This repository contains exemplary Matlab codes for simple MPI reconstructions.
 
